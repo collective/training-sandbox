@@ -5,7 +5,7 @@
   "logo": "https://node-js-sample.herokuapp.com/node.svg",
   "buildpacks": [
     {
-      "url": "https://github.com/plone/heroku-buildpack-plone.git#5.0.4"
+      "url": "https://github.com/plone/heroku-buildpack-plone/tree/5.0.4"
     }
   ],
   "keywords": ["plone", "training"]
