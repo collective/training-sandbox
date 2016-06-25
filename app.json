@@ -2,9 +2,9 @@
   "name": "Plone training",
   "description": "A ready-to-use Plone instance for trainings",
   "repository": "https://github.com/plone/plone.app.mosaic",
-  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "logo": "http://www.coactivate.org/projects/plone-marketing/plone-logo-guidelines/plone-vertical-logo.png",
   "env": {
-    "BUILDPACK_URL": "http://www.coactivate.org/projects/plone-marketing/plone-logo-guidelines/plone-vertical-logo.png"
+    "BUILDPACK_URL": "https://github.com/ebrehault/heroku-buildpack-plone"
   },
   "addons": [
     "heroku-postgresql:hobby-dev"
