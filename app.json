@@ -1,0 +1,12 @@
+{
+  "name": "Plone training",
+  "description": "A ready-to-use Plone instance for trainings",
+  "repository": "https://github.com/plone/plone.app.mosaic",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "buildpacks": [
+    {
+      "url": "https://github.com/plone/heroku-buildpack-plone.git#5.0.4"
+    }
+  ],
+  "keywords": ["plone", "training"]
+}
