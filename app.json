@@ -9,6 +9,5 @@
   "addons": [
     "heroku-postgresql:hobby-dev"
   ],
-  "success_url": "/@@plone-addsite?site_id=Plone",
   "keywords": ["plone", "training"]
 }
